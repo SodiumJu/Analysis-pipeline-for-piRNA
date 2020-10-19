@@ -28,7 +28,9 @@ The diagram created by weblogo can show 1U10A feature of piwi-interacting RNA.
 [Data processing and plotting](https://github.com/SodiumJu/Analysis-pipeline-for-piRNA/blob/master/code/runPiRWeblogo.sh)
 
 [<img src="https://imgur.com/50JAhWB" width="600"/>](https://imgur.com/50JAhWB)
+
 The example of piRNA reads shown in Weblogo.
 
 [<img src="https://imgur.com/YgiNrs9" width="600"/>](https://imgur.com/YgiNrs9)
+
 The distribution of overlapping base counts of selecting small RNA. If the process of producing piRNA involved with ping-pong cycle, the pool of piRNA shows 10 base pairs feature.
