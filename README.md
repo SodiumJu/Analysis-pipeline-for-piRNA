@@ -10,6 +10,12 @@ For managing the environment conveniently, we install [Conda](https://docs.conda
 * STAR
 * Bowtie
 
-## First step, extract piRNAs
+## First step, extracting piRNAs
 
-In order to filiter main.sh
+In order to filiter out rRNA and tRNA, we use 
+
+[Main Extraction Code](https://github.com/SodiumJu/Analysis-pipeline-for-piRNA/blob/master/code/main.sh)
+
+## Selecting unique sequence from multiple alignments for each sequencing read
+
+[Selecting Code]()
