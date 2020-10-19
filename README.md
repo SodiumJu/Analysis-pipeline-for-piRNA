@@ -27,7 +27,7 @@ The diagram created by weblogo can show 1U10A feature of piwi-interacting RNA.
 
 [Data processing and plotting](https://github.com/SodiumJu/Analysis-pipeline-for-piRNA/blob/master/code/runPiRWeblogo.sh)
 
-[<img src="https://imgur.com/50JAhWB" width="600"/>](https://imgur.com/50JAhWB)
+[<img src="https://github.com/SodiumJu/Analysis-pipeline-for-piRNA/blob/master/weblogo.png" width="600"/>](https://github.com/SodiumJu/Analysis-pipeline-for-piRNA/blob/master/weblogo.png)
 
 The example of piRNA reads shown in Weblogo.
 
