@@ -25,4 +25,6 @@ For mapping to human genome, we use STAR and create the bed file with multiple a
 
 The diagram created by weblogo can show 1U10A feature of piwi-interacting RNA.
 
-[]()
+[Data processing and plotting](https://github.com/SodiumJu/Analysis-pipeline-for-piRNA/blob/master/code/runPiRWeblogo.sh)
+
+[img https://imgur.com/50JAhWB)
